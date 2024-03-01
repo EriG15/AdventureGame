@@ -113,9 +113,11 @@ The player will keep exploring until they reach the end of the game or die befor
 
 With the design seen in the game text files, it is not too difficult for a user to make their own adventures to play in.
 
-## Authors
+## Author
 
 Erik Griswold - Responsible for the Development of `Adventure.py`, `AdvGame.py`, `AdvObject.py` and `AdvRoom.py`.
+
+## Acknowledgments
 
 William Crowther - Responsible for the idea of the adventure game and the design of the 77-room game.
 
